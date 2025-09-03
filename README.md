@@ -50,7 +50,14 @@ pip install flask numpy pandas scikit-learn
 
 text
 
-crop-yield-prediction/│├── app.py # Flask application backend├── index.html # Frontend HTML template with CSS├── yield\_df.csv # Dataset with crop yield data├── dtr.pkl # Pre-trained model file├── preprocessor.pkl # Pre-trained preprocessor file├── README.md # This file└── (optional) requirements.txt # Python dependencies
+crop-yield-prediction/│
+- ├── app.py # Flask application backend
+- ├── index.html # Frontend HTML template with CSS
+- ├── yield\_df.csv # Dataset with crop yield data
+- ├── dtr.pkl # Pre-trained model file
+- ├── preprocessor.pkl # Pre-trained preprocessor file
+- ├── README.md # This file
+- ├── (optional) requirements.txt # Python dependencies
 
 Usage
 -----
