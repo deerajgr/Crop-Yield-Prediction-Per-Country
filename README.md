@@ -47,10 +47,8 @@ pip install flask numpy pandas scikit-learn
 
 **File Structure**
 ------------------
+**crop-yield-prediction**
 
-text
-
-crop-yield-prediction/│
 - ├── app.py # Flask application backend
 - ├── index.html # Frontend HTML template with CSS
 - ├── yield\_df.csv # Dataset with crop yield data
